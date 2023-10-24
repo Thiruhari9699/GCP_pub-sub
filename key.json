@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "celtic-hub-403000",
+  "private_key_id": "b9e589e354f99d289d8dff41e0be286c9a547503",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCYVrqfd/a932P0\nEd2W6LjiS2Fh2BJzDTGCrBfgaxexf5N7wOfWt16ToPkB+kbrG8Bvl+KssNtEhBIT\nJ2gDEv4aoL0j9E5ZsFTJZU4mUcA2bHUI+89TdbXwHS7G9crs9lpJucVSMqS25N5/\npNwh9+rRnQ9lBSKZT6QcQv24lZAN1pYpWPepdvCjY3ngI/+4V9UEadrbrZYcmYHd\nWiA0l6fRtMcoDKVBJF+/Qr9Zgyfxm2anFlbiGdrvtRMuuFZPtMidZJzXqYwGx8Az\n4hW1aCsCHsE/4hjCsm9b7ZPoBd3+yyTGtFWOYYo+rJdDJHFkWp00qcsqer8ExmWh\nUtmWFZ83AgMBAAECggEALM51nanfPQGTmJoYnuZcWtLpFapD4usigNi1PSDCm0Z2\nzpNynUjZ3HogQ2Cls0k6VJhL55ctJv3hgxi4Ew9nBdX5S7XzxZWDmqjdT5AEBP3p\nfnbyCA47MSCkPYjV4tSiwcSOMRsML28pskl/Jc6Rlo2nlYLpJkayck2R6tSyxh6/\nPzXgq7GlXhCyplOsVH7BrayfXrS1TsjP/f4nkwslaEX4xILQY57ygXqlGyrqfnAw\n5HYZAiTk+ybEejNop4yiqAjVxCba8PHMfPTas30gCitodnQr6WTXcqKAngpG6JvD\nNJvXtcFXCNiR9TP4zMR1J4UxCsyaAFbB2uggscErgQKBgQDQK9sLGRk5U3zRDWzB\nutDlhkmhp60vqf2HWP/Hf3GHarfoQC9HuHaxNCIULPzM6jBki+OzrE7tRTbB57nV\nkiZgCupqDBzgfu79KHul9qceex9xm6Y0fm15pzIhzKCU8rjVlhmr8FHDNTy8LWB0\nuTIdydjoc02Fa2C/VyQu+NRdpwKBgQC7Vu+pgHOWssnpD9RfFXHRGb7w9vZOfvV0\nPN+3upWgOV0CdxcLiF5XQbI+npRpP3r0O4KRdrymX85FyjWo6lJnPDZWG90BD7nF\nqgH8QEU5sPjLjYq/fBd5q6zmYtxf56WRpFGdN/H3B/Rp6Mw/YZ6C+g7EORgErRh8\nWoSSXXuD8QKBgQCtqBgXfv2Cy/mwr0FNr1l6T3b3KtiXjXhYw07EjrUXYVg/n+OR\nMfmZw8K2D/1nt+lcxzHRfeltl7KhOXzWBBCNSC3a/3XLdThK6c2UWll5XP6TGGQj\nIGCU/nwcpAZFmuHEE24g995NOQkMddIkLSX4oZyX9S/zH+taUwh1QtBtuwKBgF6f\nhKHqvXdqis1rL2tvW3OwO19eff4b5kJ11NHqLlUlZDMwj7VFhdEw36T9WBzo8WOX\nA1YR0St/zKI3hm7xG/oE0bUgkbpNhRmvyxzsIYsINkIqFeCt/vV3nvcnDARs7pXn\nl0l/znllzTAJY9DHr9acEwVNiTIjc/Crj7aV/SMhAoGAFZ2n1pV6RsbfsxnPWr1O\nbO5n9ppJhLS4/i/yAJIGzKcAHjJAS8hElINWnfdF6zAIXqcvbFW1U1Pg9d/YEuZL\ncftRf4D8visoqQGxBbkYst5gscqsHfJBGc7DOnK/yCCkp0SZIWdrceqoOOd4xUnY\nInPoZbBi3CPFBCsY2HmfcAY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pubsub-system@celtic-hub-403000.iam.gserviceaccount.com",
+  "client_id": "111167730891754625259",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pubsub-system%40celtic-hub-403000.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
